@@ -1,2 +1,2 @@
 # FoutoireAssembly
-Assembly learning
+Assembly learning (FR)
