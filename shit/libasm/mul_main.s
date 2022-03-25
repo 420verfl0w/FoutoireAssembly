@@ -1,5 +1,7 @@
 BITS 64
 
+; https://www.tutorialspoint.com/assembly_programming/assembly_arithmetic_instructions.htm
+
 %include "mul.s"
 
 global _start

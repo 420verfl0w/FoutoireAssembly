@@ -28,6 +28,6 @@ bash -c "$(curl -fsSL http://gef.blah.cat/sh)"
 
 ```bash
 cd ~/
-git clone https://github.com/scwuaptx/Pwngdb.git 
+git clone https://github.com/scwuaptx/Pwngdb.git
 cp ~/Pwngdb/.gdbinit ~/
 ```
