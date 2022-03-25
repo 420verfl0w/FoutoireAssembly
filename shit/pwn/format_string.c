@@ -25,6 +25,6 @@ int main(int ac, char **av)
     strcpy(buf, "flag{test123}");
     fgets(input, 80, stdin);
     if (ac > 1)
-        printf(input)
+        printf(input);
     return (0);
 }
