@@ -1,5 +1,5 @@
-struc elf_ehdr e_ident
+struc mytest
 {
-    .a db e_ident
-    .b db ?
-}
+    .a rb 8
+    .b rb 8
+} mytest mytest
